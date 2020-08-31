@@ -1,0 +1,8 @@
+plt_puts:0x400520
+global_puts:0x600c50
+pop_rdi:0x400853
+plt_main:0x4006ec
+
+from libc.so.6
+
+puts@GLIBCL:0x74040
